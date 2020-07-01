@@ -1,7 +1,6 @@
 <h2> BoolBnB creato dal team 6 di classe 10 di Boolean Carrers </h2>
 
-<p align= "center"> il seguente progetto è sviluppato in collaborazione con Alessandro Caiti, Alberto Dragoni e Pierluigi Tarquinio (Le loro info sono presenti nel footer del progetto). BoolBnB nasce unicamente a scopo didattico sfruttando le seguenti tecnologie: HTML, SCSS, PHP, Javascript. Il progetto è realizzato con Laravel è utilizza le seguenti librerie esterne: Jquery, Leaf, Algolia, Moment.js e Chart.js.<br> Il progetto consiste in una sorta di replica di AirBnB.
-
+<p align= "center"> il seguente progetto è sviluppato in collaborazione con Alessandro Caiti, Alberto Dragoni e Pierluigi Tarquinio (Le loro info sono presenti nel footer del progetto). BoolBnB nasce unicamente a scopo didattico sfruttando le seguenti tecnologie: HTML, SCSS, PHP, Javascript. Il progetto è realizzato con Laravel è utilizza le seguenti librerie esterne: Jquery, Leaf, Algolia, Moment.js e Chart.js.
 
 
 
